@@ -1,6 +1,6 @@
 ## LLM & Diffusion Generator Safety Layer
 
-A lightweight, multi-layered safety guardrail script (`safety.py`) designed for text-to-image, text-to-video, and text generation pipelines.
+A lightweight advanced, multi-layered safety guardrail script (`safety.py`) designed for text-to-image, text-to-video, and text generation pipelines.
 
 ## Core Philosophy & Design
 
