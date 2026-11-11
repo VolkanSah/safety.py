@@ -18,4 +18,4 @@ This implementation uses a **defense-in-depth** approach combined with **pattern
 * **Vector-Based Semantic Filtering:** Moving beyond exact-match substring dictionaries to semantic embedding distance checks, allowing the system to catch novel conceptual workarounds and paraphrased bypasses without maintaining exhaustive keyword lists.
 
 
-MIT - for Safety 
+MIT - for Safety for our children
