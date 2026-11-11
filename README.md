@@ -1,4 +1,5 @@
 ## LLM & Diffusion Generator Safety Layer
+> must have for models which can creates SFW/NSFW 
 
 A lightweight advanced, multi-layered safety guardrail script (`safety.py`) designed for text-to-image, text-to-video, and text generation pipelines.
 
